@@ -4,16 +4,6 @@ import Form from "./Form";
 import PackingList from "./Packinglist";
 import Stats from "./Stats";
 
-
-
-
-
-
-
-
-
-
-
 function App() {
   const [items, setItems] = useState([]);
 

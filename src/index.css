@@ -67,12 +67,12 @@ input {
 
 .add-form button {
   text-transform: uppercase;
-  background-color: #76c7ad;
+  background-color:#e8bcf0 ;
 }
 
 .list {
   background-color: #e8bcf0;
-  color: #ffebb3;
+  color: black;
   padding: 4rem 0;
 
   display: flex;
@@ -112,7 +112,7 @@ input {
 input[type="checkbox"] {
   height: 2rem;
   width: 2rem;
-  accent-color: #e5771f;
+  accent-color: #da8ee7;
 }
 
 .list li button {
